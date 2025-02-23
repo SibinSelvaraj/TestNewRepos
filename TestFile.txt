@@ -1,1 +1,1 @@
-File is stored in Git
+File is stored in Git - adding the changes to the child branch
